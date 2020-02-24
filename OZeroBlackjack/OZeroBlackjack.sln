@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OZeroBlackjack.Api", "OZeroBlackjack.Api\OZeroBlackjack.Api.csproj", "{A73BF893-9E61-49FC-87FD-A42D858B33F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OZeroBlackjack.Business", "OZeroBlackjack.Business\OZeroBlackjack.Business.csproj", "{CC6321FD-EA7A-4DEE-8DA6-3843AF8413D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A73BF893-9E61-49FC-87FD-A42D858B33F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A73BF893-9E61-49FC-87FD-A42D858B33F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A73BF893-9E61-49FC-87FD-A42D858B33F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A73BF893-9E61-49FC-87FD-A42D858B33F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6321FD-EA7A-4DEE-8DA6-3843AF8413D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6321FD-EA7A-4DEE-8DA6-3843AF8413D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6321FD-EA7A-4DEE-8DA6-3843AF8413D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6321FD-EA7A-4DEE-8DA6-3843AF8413D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04A91520-CDE9-4882-A7A5-1CA8A46AAA8D}
+	EndGlobalSection
+EndGlobal
